@@ -19,8 +19,6 @@ export default function App() {
 		// eslint-disable-next-line
 	}, []);
 
-	console.log(trivia);
-	
 	function startGame() {
 		setStart((prevStart) => {
 			return !start;
