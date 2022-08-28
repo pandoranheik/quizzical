@@ -2,6 +2,10 @@
 Quizzical is a trivia questions web app that consumes a REST API from the [Open Trivia DataBase](https://opentdb.com/). 
 
 Visit the project here &rarr; [Quizzical](https://quizzical-xi.vercel.app/)
+## 🥞 Tech stack
+| Frontend | 
+| :---:    | 
+| [React](https://reactjs.org/) |
 ## Gameplay
 Questions are generated at random each time the player starts a new game. Players are also able to check their score based on the amount of questions that the player has answered correctly.
 ### 🖼️ Images
